@@ -1,6 +1,6 @@
 <img src="screencap.png" align="right" width="250">
 
-# [Play flappy birb](https://3kh0.github.io/FlappyBirb/)
+# [Play Flappy Birb](https://3kh0.github.io/FlappyBirb/)
 
 If you missed the Flappy Bird hype, here's your chance to try the best vintage knockoff.
 
@@ -14,6 +14,15 @@ If you missed the Flappy Bird hype, here's your chance to try the best vintage k
 ### Enjoy!
 
 https://3kh0.github.io/FlappyBirb/ (or play [**easy mode**](https://3kh0.github.io/FlappyBirb/?easy))
+
+### Leaderboards
+Place | [Normal Mode](https://3kh0.github.io/FlappyBirb) | [Easy Mode](https://3kh0.github.io/FlappyBirb/?easy)
+------------- | ------------ | -------------
+**1st place** | @3kh0 - 65 | @3kh0 - 102
+*2nd place* | ?? - ?? | ?? - ??
+3rd place | ?? - ?? | ?? - ??
+
+Submit your scores with the issues tab! Be sure to include a screenshot!
 
 ### Notice
 
