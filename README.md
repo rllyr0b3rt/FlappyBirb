@@ -1,5 +1,3 @@
-<img src="screencap.png" align="right" width="250">
-
 # [Play Flappy Birb](https://3kh0.github.io/FlappyBirb/)
 
 If you missed the Flappy Bird hype, here's your chance to try the best vintage knockoff.
