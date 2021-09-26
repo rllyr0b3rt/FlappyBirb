@@ -17,7 +17,7 @@ https://3kh0.github.io/FlappyBirb/ (or play [**easy mode**](https://3kh0.github.
 Place | [Normal Mode](https://3kh0.github.io/FlappyBirb) | [Easy Mode](https://3kh0.github.io/FlappyBirb/?easy)
 ------------- | ------------ | -------------
 **1st place** | @3kh0 - 65 | @3kh0 - 102
-*2nd place* | ?? - ?? | ?? - ??
+*2nd place* | @keirman1 - 2 | ?? - ??
 3rd place | ?? - ?? | ?? - ??
 
 Submit your scores with the issues tab! Be sure to include a screenshot!
