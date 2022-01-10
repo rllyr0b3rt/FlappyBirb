@@ -11,12 +11,12 @@ If you missed the Flappy Bird hype, here's your chance to try the best vintage k
 
 ### Enjoy!
 
-https://3kh0.github.io/FlappyBirb/ (or play [**easy mode**](https://3kh0.github.io/FlappyBirb/?easy))
+https://rllyr0b3rt.github.io/FlappyBirb/ (or play [**easy mode**](https://rllyr0b3rt.github.io/FlappyBirb/?easy))
 
 ### Leaderboards
-Place | [Normal Mode](https://3kh0.github.io/FlappyBirb) | [Easy Mode](https://3kh0.github.io/FlappyBirb/?easy)
+Place | [Normal Mode](https://rllyr0b3rt.github.io/FlappyBirb) | [Easy Mode](https://rllyr0b3rt.github.io/FlappyBirb/?easy)
 ------------- | ------------ | -------------
-**1st place** | @3kh0 - 65 | @3kh0 - 102
+**1st place** | @rllyr0b3rt - 65 | @rllyr0b3rt - 102
 *2nd place* | @keirman1 - 2 | ?? - ??
 3rd place | ?? - ?? | ?? - ??
 
